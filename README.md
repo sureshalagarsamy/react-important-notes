@@ -12,7 +12,7 @@ The difference is just what they **remember**.
 
 ### Change detection in Angular and React
 
-React and Angular change detections are different. But they are common in one important thing. Making a difference of previous and current state from `memory` (not from DOM) and rendering only what has been changed. 
+React and Angular change detections are different. But they are common in one important thing. Making a difference of `previous` and `current` state from `memory` (not from DOM) and rendering only what has been changed. 
 
 ##### In Angular
 
